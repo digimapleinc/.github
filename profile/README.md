@@ -19,7 +19,7 @@ At Digi Maple Inc., we aim to empower businesses with innovative digital solutio
 
 ## 🤝 Get in Touch
 
-- **Website**: [digimaple.com](https://digimaple.com)  
+- **Website**: [digimaple.com](https://digimaple.ca)  
 - **LinkedIn**: [Follow us on LinkedIn](https://linkedin.com/company/digimaple)  
 
 
