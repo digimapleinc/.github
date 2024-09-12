@@ -17,4 +17,10 @@ Welcome to Digi Maple Inc.'s official GitHub repository! We are a full-service d
 
 At Digi Maple Inc., we aim to empower businesses with innovative digital solutions that enhance online presence, boost engagement, and drive results. We focus on creating high-performance, user-friendly, and scalable web solutions that cater to a wide range of industries.
 
+## 🤝 Get in Touch
+
+- **Website**: [digimaple.com](https://digimaple.com)  
+- **LinkedIn**: [Follow us on LinkedIn](https://linkedin.com/company/digimaple)  
+
+
 Feel free to explore our repositories, contribute to our projects, or reach out to us for collaboration!
